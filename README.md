@@ -2,7 +2,7 @@
 ### Sou o David Washington
 
 #### 👨🏾‍👦🏾 Sou pai <br>👨🏾‍💻 Estudante de Sistemas de Informação na UFMT <br>🌱 Faço estágio em uma multinacional do agronegócio<br>🎬 Gosto muito de arte, sobretudo Cinema e Musica.
-##### Comecei a estudar HTML e CSS quando era adolescente, na época de ouro do blogspot. Mas optei por estudar Cinema, com o que trabalhei por algum tempo antes de começar a transição de carreira.<br>Atualmente estudo principalmente Python e suas biblioteca, mas também conheço algo de C e Javascript. Trabalho em projetos pessoais e da faculdade e busco uma oportunidade como Dev jr.
+##### Comecei a estudar HTML e CSS quando era adolescente, na época de ouro do blogspot. Mas na hora de escolher uma faculdade optei por estudar Cinema, com o que trabalhei por algum tempo antes de começar a transição de carreira.<br>Atualmente estudo principalmente Python e suas biblioteca, mas também conheço algo de C e Javascript. Trabalho em projetos pessoais e da faculdade e busco uma oportunidade como Dev jr.
 
 ##### Confira algumas das minhas habilidade e competências:
  ![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)  ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0) 
